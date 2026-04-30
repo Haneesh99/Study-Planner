@@ -39,8 +39,16 @@ This project appears to be a web application with user authentication and admin 
 - Database seeding
 - Static assets (CSS/JS)
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Project Team – Anti-Gravity System
+
+| S.No | Name | Registration Number | Role |
+| :--- | :--- | :--- | :--- |
+| 1 | T. Jaswanth Sai | AP24110010041 | Full Stack Developer (Lead) |
+| 2 | Shaik Farvez | AP24110010020 | Backend Developer |
+| 3 | V. Revanth | AP24110010071 | Frontend Developer |
+| 4 | T. Nikhilesh | AP24110010039 | Database Manager |
+| 5 | Janaki | AP24110010058 | UI/UX Designer |
+| 6 | Haneesh | AP24110010032 | QA & Documentation |
 
 ## License
 Specify your license here.
